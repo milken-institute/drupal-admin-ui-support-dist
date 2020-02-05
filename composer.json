@@ -1,5 +1,5 @@
 {
-    "name": "justafish/drupal-admin-ui-support",
+    "name": "milken-institute/drupal-admin-ui-support",
     "type": "drupal-module",
     "description": "Drupal support module for the v fancy React admin UI",
     "license": "GPL-2.0-or-later",
